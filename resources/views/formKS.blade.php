@@ -1045,7 +1045,7 @@
             <h4 class="text-center">XIN TRÂN TRỌNG CẢM ƠN ÔNG/BÀ!</h4>
         </div>
         <div class="text-center mt-4 mb-5">
-            <button type="button" class="btn btn-primary btn-lg uppercase-text"><h4>GỬI</h4></button>
+            <button style="padding: 10px 30px" type="button" class="btn btn-primary btn-lg uppercase-text"><b>GỬI</b></button>
 
         </div>
 
